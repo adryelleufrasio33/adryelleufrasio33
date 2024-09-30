@@ -8,4 +8,15 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryelleufrasio33&layout=compact&hide_border=true&title_color=002366&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adryelleufrasio33&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center"> 
+<a href="https://instagram.com/adryelleufrasio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+
+<a href = "mailto:cmp.1a.adryellverstappen@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/carolbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
 
