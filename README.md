@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Adryell+Eufrasio;I'm+26+years+old;I+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Adryell+Eufrasio;I'm+26+years+old;I+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 
 <div align="center">  
@@ -22,6 +23,7 @@
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)&nbsp;
@@ -29,6 +31,28 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Databases](https://img.shields.io/badge/-Databases-0D1117?style=for-the-badge&logo=database&labelColor=0D1117)&nbsp;
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=blue&labelColor=0D1117)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white&labelColor=0D1117)&nbsp;
+![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117)&nbsp;
+![Criptografia](https://img.shields.io/badge/-Criptografia-0D1117?style=for-the-badge&logo=security&logoColor=white&labelColor=0D1117)&nbsp;
+
+
+
+
+
+
+### Studying in this moment:
+![Redes](https://img.shields.io/badge/-Redes-0D1117?style=for-the-badge&logo=network&labelColor=0D1117)&nbsp;
+![Cibersegurança](https://img.shields.io/badge/-Cibersegurança-0D1117?style=for-the-badge&logo=cybersecurity&labelColor=0D1117)&nbsp;
+![ORM](https://img.shields.io/badge/-ORM-0D1117?style=for-the-badge&logo=database&labelColor=0D1117)&nbsp;
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{adryelleufrasio33}/count.svg" /></p> 
+<br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
 
 
 
